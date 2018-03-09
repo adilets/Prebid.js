@@ -116,7 +116,8 @@ describe('a4gAdapterTests', () => {
         'ttl',
         'creativeId',
         'netRevenue',
-        'currency'
+        'currency',
+        'adId'
       ];
 
       let resultKeys = Object.keys(result[0]);
